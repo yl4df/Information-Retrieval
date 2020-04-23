@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value=" of radiation caused by charged particles moving in varying electric and magnetic fields" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value=" of radiation caused by charged particles moving in varying electric and magnetic fields"/>
+			<item value="float secondTerm = (float) (((k1+1)*termFreq)/(k1*(1-b+b*(docLength/stats.getAvgFieldLength()))+termFreq));"/>
+			<item value="the phenomenon of radiation"/>
+			<item value="pherical harmonic analysis of the earths magnetic field"/>
+			<item value="0.14739070495339243"/>
+			<item value="spherical harmonic analysis of the earths magnetic field"/>
+			<item value="characteristics of the single electrode discharge in the rare gases at low pressures"/>
+			<item value="synthesis"/>
+			<item value="spherical"/>
+			<item value="spherical "/>
+			<item value="spherical harmonic analysis of the earth’s magnetic field"/>
+			<item value="rare"/>
+			<item value="query"/>
+			<item value="X"/>
+			<item value="F"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="294" key="DIALOG_WIDTH"/>
+		<item value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont" key="DIALOG_FONT_NAME"/>
+		<item value="408" key="DIALOG_HEIGHT"/>
+		<item value="800" key="DIALOG_X_ORIGIN"/>
+		<item value="149" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

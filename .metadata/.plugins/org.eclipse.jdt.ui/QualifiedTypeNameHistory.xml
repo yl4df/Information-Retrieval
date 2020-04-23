@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.IndexReader"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.DirectoryReader"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.store.FSDirectory"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.TermsEnum"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.MultiFields"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.Terms"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.Stopwords"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.Indexer"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.JelinekMercer"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.OkapiBM25"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.PivotedLength"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.TFIDFDotProduct"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.BooleanDotProduct"/>
+    <fullyQualifiedTypeName name="edu.virginia.cs.index.similarities.DirichletPrior"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="org.apache.lucene.index.Term"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+</qualifiedTypeNameHistroy>

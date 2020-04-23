@@ -1,0 +1,97 @@
+1. Create a folder named "similarities" under "src\edu\virginia\cs\index\" in your source file directory for MP2, extract the java files from similarities.zip, and place them in the newly created folder.
+
+2. In edu.virginia.cs.evaluator.Evaluate.java, please update the implementation of "setSimilarity" and "printUsage" methods with the following:
+
+		public static void setSimilarity(Searcher searcher, String method) {
+		if(method == null)
+            return;
+        else if(method.equals("--dp"))
+            searcher.setSimilarity(new DirichletPrior());
+        else if(method.equals("--jm"))
+            searcher.setSimilarity(new JelinekMercer());
+        else if(method.equals("--ok"))
+            searcher.setSimilarity(new OkapiBM25());
+        else if(method.equals("--pl"))
+            searcher.setSimilarity(new PivotedLength());
+        else if(method.equals("--tfidf"))
+            searcher.setSimilarity(new TFIDFDotProduct());
+        else if(method.equals("--bdp"))
+            searcher.setSimilarity(new BooleanDotProduct());
+        else
+        {
+            System.out.println("[Error]Unknown retrieval function specified!");
+            printUsage();
+            System.exit(1);
+        }
+    }
+    
+    public static void printUsage() {
+    	System.out.println("To specify a ranking function, make your last argument one of the following:");
+        System.out.println("\t--dp\tDirichlet Prior");
+        System.out.println("\t--jm\tJelinek-Mercer");
+        System.out.println("\t--ok\tOkapi BM25");
+        System.out.println("\t--pl\tPivoted Length Normalization");
+        System.out.println("\t--tfidf\tTFIDF Dot Product");
+        System.out.println("\t--bdp\tBoolean Dot Product");
+    } 
+
+
+3. In edu.virginia.cs.index.Searcher.java, please update the implementation of "runSearch" method with the following:
+
+		private SearchResult runSearch(Query luceneQuery, SearchQuery searchQuery)
+    {
+        try
+        {
+        	Similarity sim = indexSearcher.getSimilarity();
+        	System.out.println("\nScoring documents with " + sim);
+            
+        	// have to do this to figure out query length in the LM scorers
+            if(sim instanceof DirichletPrior) {
+                Set<Term> terms = new HashSet<Term>();
+                luceneQuery.extractTerms(terms);
+                ((DirichletPrior) sim).setQueryLength(terms.size());
+            }
+            
+            TopDocs docs = indexSearcher.search(luceneQuery, searchQuery.fromDoc() + searchQuery.numResults());
+            ScoreDoc[] hits = docs.scoreDocs;
+            String field = searchQuery.fields().get(0);
+
+            SearchResult searchResult = new SearchResult(searchQuery, docs.totalHits);
+            for(ScoreDoc hit : hits)
+            {
+                Document doc = indexSearcher.doc(hit.doc);
+                ResultDoc rdoc = new ResultDoc(hit.doc);
+
+                String highlighted = null;
+                try
+                {
+                    Highlighter highlighter = new Highlighter(formatter, new QueryScorer(luceneQuery));
+                    rdoc.title("" + (hit.doc + 1));
+                    String contents = doc.getField(field).stringValue();
+                    rdoc.content(contents);
+                    String[] snippets = highlighter.getBestFragments(analyzer, field, contents, numFragments);
+                    highlighted = createOneSnippet(snippets);
+                }
+                catch(InvalidTokenOffsetsException exception)
+                {
+                    exception.printStackTrace();
+                    highlighted = "(no snippets yet)";
+                }
+
+                searchResult.addResult(rdoc);
+                searchResult.setSnippet(rdoc, highlighted);
+            }
+
+            searchResult.trimResults(searchQuery.fromDoc());
+            return searchResult;
+        }
+        catch(IOException exception)
+        {
+            exception.printStackTrace();
+        }
+        return new SearchResult(searchQuery);
+    }
+    
+4. Update the import statements in "edu.virginia.cs.evaluator.Evaluate.java" and "edu.virginia.cs.index.Searcher.java" to refer to the right classes.    
+
+5. Work on the newly added java files under "src\edu\virginia\cs\index\similarities" to implement your own ranking functions.
