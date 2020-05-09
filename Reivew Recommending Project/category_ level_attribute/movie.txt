@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.028*"film" + 0.015*"horror" + 0.014*"like" + 0.008*"workout" + 0.008*"work" + 0.008*"look" + 0.007*"minut" + 0.006*"scene" + 0.006*"time" + 0.006*"bodi"
+Topic: 1 
+Words: 0.014*"film" + 0.009*"peopl" + 0.009*"life" + 0.007*"stori" + 0.006*"world" + 0.006*"time" + 0.006*"live" + 0.005*"documentari" + 0.005*"know" + 0.004*"work"
+Topic: 2 
+Words: 0.100*"movi" + 0.064*"good" + 0.038*"like" + 0.032*"watch" + 0.020*"stori" + 0.018*"think" + 0.015*"time" + 0.014*"act" + 0.012*"better" + 0.010*"pretti"
+Topic: 3 
+Words: 0.140*"great" + 0.113*"love" + 0.103*"movi" + 0.037*"watch" + 0.028*"enjoy" + 0.026*"good" + 0.025*"excel" + 0.020*"thank" + 0.015*"time" + 0.014*"recommend"
+Topic: 4 
+Words: 0.065*"film" + 0.020*"perform" + 0.016*"charact" + 0.014*"act" + 0.014*"stori" + 0.014*"actor" + 0.013*"play" + 0.012*"great" + 0.012*"beauti" + 0.011*"cast"
+Topic: 5 
+Words: 0.032*"link" + 0.029*"product" + 0.016*"opera" + 0.014*"class" + 0.013*"hook" + 0.012*"normal" + 0.011*"data" + 0.010*"href" + 0.010*"nbsp" + 0.010*"western"
+Topic: 6 
+Words: 0.016*"video" + 0.014*"releas" + 0.014*"film" + 0.013*"qualiti" + 0.013*"sound" + 0.013*"version" + 0.012*"disc" + 0.011*"music" + 0.009*"featur" + 0.008*"like"
+Topic: 7 
+Words: 0.068*"seri" + 0.043*"episod" + 0.037*"season" + 0.030*"anim" + 0.016*"charact" + 0.012*"like" + 0.010*"watch" + 0.008*"origin" + 0.008*"best" + 0.008*"star"
+Topic: 8 
+Words: 0.014*"girl" + 0.008*"go" + 0.007*"friend" + 0.007*"young" + 0.007*"play" + 0.007*"love" + 0.007*"woman" + 0.007*"come" + 0.007*"year" + 0.007*"like"
+Topic: 9 
+Words: 0.029*"match" + 0.014*"fight" + 0.009*"team" + 0.009*"action" + 0.007*"titl" + 0.005*"take" + 0.005*"ring" + 0.005*"event" + 0.005*"best" + 0.005*"go"
+Topic: 0 Word: 0.006*"film" + 0.004*"stori" + 0.004*"love" + 0.003*"movi" + 0.003*"great" + 0.003*"good" + 0.003*"like" + 0.003*"perform" + 0.003*"life" + 0.003*"opera"
+Topic: 1 Word: 0.069*"like" + 0.012*"outstand" + 0.011*"suspens" + 0.011*"stupid" + 0.010*"twist" + 0.008*"teenag" + 0.008*"mysteri" + 0.007*"drug" + 0.007*"blue" + 0.007*"scienc"
+Topic: 2 Word: 0.042*"workout" + 0.038*"entertain" + 0.026*"satisfi" + 0.023*"zombi" + 0.020*"singer" + 0.017*"hilari" + 0.013*"decent" + 0.011*"bluray" + 0.010*"kinda" + 0.009*"killer"
+Topic: 3 Word: 0.027*"link" + 0.023*"grandson" + 0.014*"finish" + 0.012*"hook" + 0.011*"noir" + 0.011*"weird" + 0.010*"class" + 0.010*"data" + 0.010*"creatur" + 0.010*"nbsp"
+Topic: 4 Word: 0.037*"nice" + 0.031*"collect" + 0.026*"qualiti" + 0.019*"video" + 0.016*"disc" + 0.013*"pictur" + 0.013*"documentari" + 0.012*"great" + 0.012*"inform" + 0.011*"sound"
+Topic: 5 Word: 0.147*"love" + 0.044*"enjoy" + 0.039*"awesom" + 0.039*"movi" + 0.033*"funni" + 0.032*"watch" + 0.031*"seri" + 0.030*"great" + 0.023*"good" + 0.023*"stori"
+Topic: 6 Word: 0.194*"great" + 0.187*"good" + 0.086*"movi" + 0.074*"excel" + 0.072*"thank" + 0.026*"product" + 0.020*"seri" + 0.018*"condit" + 0.017*"fast" + 0.017*"perfect"
+Topic: 7 Word: 0.036*"okay" + 0.024*"match" + 0.006*"ghost" + 0.006*"martial" + 0.006*"silent" + 0.006*"crazi" + 0.005*"dose" + 0.005*"franco" + 0.005*"demon" + 0.004*"photo"
+Topic: 8 Word: 0.007*"movi" + 0.007*"film" + 0.006*"like" + 0.005*"good" + 0.005*"watch" + 0.004*"stori" + 0.004*"act" + 0.004*"horror" + 0.004*"time" + 0.004*"love"
+Topic: 9 Word: 0.028*"gift" + 0.025*"season" + 0.019*"expect" + 0.016*"happi" + 0.015*"buy" + 0.015*"seri" + 0.015*"watch" + 0.014*"purchas" + 0.014*"love" + 0.014*"movi"

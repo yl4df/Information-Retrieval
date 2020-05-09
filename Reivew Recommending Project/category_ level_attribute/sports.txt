@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.017*"strap" + 0.015*"like" + 0.012*"good" + 0.010*"littl" + 0.010*"comfort" + 0.009*"backpack" + 0.009*"hand" + 0.008*"materi" + 0.008*"weight" + 0.008*"pad"
+Topic: 1 
+Words: 0.044*"light" + 0.035*"bike" + 0.019*"mount" + 0.017*"easi" + 0.016*"work" + 0.014*"bright" + 0.014*"instal" + 0.014*"fish" + 0.012*"sight" + 0.011*"lock"
+Topic: 2 
+Words: 0.064*"love" + 0.042*"size" + 0.036*"wear" + 0.029*"great" + 0.027*"like" + 0.026*"perfect" + 0.024*"comfort" + 0.023*"color" + 0.021*"fit" + 0.018*"look"
+Topic: 3 
+Words: 0.180*"great" + 0.099*"good" + 0.087*"work" + 0.061*"product" + 0.060*"qualiti" + 0.059*"price" + 0.023*"excel" + 0.021*"expect" + 0.020*"look" + 0.016*"nice"
+Topic: 4 
+Words: 0.030*"review" + 0.021*"product" + 0.018*"batteri" + 0.015*"honest" + 0.014*"receiv" + 0.013*"band" + 0.013*"rid" + 0.013*"discount" + 0.012*"help" + 0.012*"video"
+Topic: 5 
+Words: 0.027*"shirt" + 0.024*"scope" + 0.018*"cold" + 0.017*"light" + 0.016*"keep" + 0.015*"camp" + 0.015*"work" + 0.014*"cool" + 0.013*"water" + 0.013*"wash"
+Topic: 6 
+Words: 0.026*"ball" + 0.020*"shoot" + 0.016*"rang" + 0.015*"play" + 0.013*"rifl" + 0.013*"target" + 0.010*"good" + 0.009*"game" + 0.009*"round" + 0.009*"hunt"
+Topic: 7 
+Words: 0.018*"time" + 0.016*"like" + 0.012*"come" + 0.011*"break" + 0.011*"belt" + 0.011*"buy" + 0.011*"look" + 0.011*"work" + 0.010*"think" + 0.010*"go"
+Topic: 8 
+Words: 0.027*"pack" + 0.027*"water" + 0.018*"bottl" + 0.017*"pocket" + 0.015*"hold" + 0.014*"carri" + 0.013*"need" + 0.013*"easi" + 0.011*"small" + 0.010*"tire"
+Topic: 9 
+Words: 0.043*"knife" + 0.036*"nice" + 0.022*"holster" + 0.021*"handl" + 0.021*"grip" + 0.021*"blade" + 0.019*"like" + 0.017*"good" + 0.016*"hand" + 0.015*"look"
+Topic: 0 Word: 0.095*"perfect" + 0.087*"excel" + 0.028*"like" + 0.024*"ball" + 0.022*"daughter" + 0.016*"camp" + 0.016*"love" + 0.015*"product" + 0.015*"servic" + 0.015*"kid"
+Topic: 1 Word: 0.063*"nice" + 0.024*"holster" + 0.020*"easi" + 0.020*"belt" + 0.019*"comfort" + 0.017*"great" + 0.016*"fit" + 0.015*"money" + 0.015*"good" + 0.015*"qualiti"
+Topic: 2 Word: 0.024*"sight" + 0.023*"scope" + 0.020*"batteri" + 0.019*"bright" + 0.017*"light" + 0.015*"target" + 0.014*"mount" + 0.012*"shoot" + 0.011*"sheath" + 0.010*"exchang"
+Topic: 3 Word: 0.082*"thank" + 0.032*"seat" + 0.031*"small" + 0.024*"deal" + 0.021*"return" + 0.017*"best" + 0.016*"satisfi" + 0.015*"suppos" + 0.011*"pictur" + 0.010*"cheapli"
+Topic: 4 Word: 0.057*"knife" + 0.023*"rid" + 0.023*"blade" + 0.022*"sharp" + 0.011*"knive" + 0.011*"tool" + 0.011*"stuff" + 0.011*"grip" + 0.010*"great" + 0.010*"good"
+Topic: 5 Word: 0.036*"shirt" + 0.023*"fish" + 0.017*"reel" + 0.017*"ride" + 0.013*"compress" + 0.012*"cool" + 0.011*"line" + 0.011*"rail" + 0.009*"night" + 0.009*"medium"
+Topic: 6 Word: 0.015*"water" + 0.014*"bottl" + 0.013*"pack" + 0.013*"backpack" + 0.011*"wash" + 0.008*"great" + 0.008*"tent" + 0.008*"clean" + 0.008*"lightweight" + 0.007*"sleep"
+Topic: 7 Word: 0.013*"wear" + 0.013*"size" + 0.010*"glove" + 0.009*"comfort" + 0.009*"short" + 0.009*"great" + 0.009*"sock" + 0.008*"tight" + 0.008*"love" + 0.008*"like"
+Topic: 8 Word: 0.117*"great" + 0.096*"good" + 0.085*"work" + 0.067*"product" + 0.052*"love" + 0.037*"qualiti" + 0.034*"expect" + 0.034*"price" + 0.028*"describ" + 0.026*"advertis"
+Topic: 9 Word: 0.006*"work" + 0.006*"bike" + 0.006*"like" + 0.005*"good" + 0.005*"come" + 0.005*"great" + 0.004*"time" + 0.004*"review" + 0.004*"break" + 0.004*"need"

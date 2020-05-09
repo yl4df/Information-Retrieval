@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.050*"album" + 0.023*"track" + 0.017*"sound" + 0.011*"vocal" + 0.011*"releas" + 0.010*"band" + 0.009*"record" + 0.008*"guitar" + 0.007*"singl" + 0.006*"work"
+Topic: 1 
+Words: 0.305*"good" + 0.146*"song" + 0.069*"nice" + 0.039*"music" + 0.024*"like" + 0.020*"beat" + 0.020*"perfect" + 0.014*"tune" + 0.013*"sound" + 0.012*"pretti"
+Topic: 2 
+Words: 0.048*"song" + 0.021*"like" + 0.017*"time" + 0.016*"hear" + 0.013*"listen" + 0.012*"know" + 0.012*"think" + 0.011*"come" + 0.010*"music" + 0.010*"lyric"
+Topic: 3 
+Words: 0.435*"great" + 0.212*"song" + 0.061*"awesom" + 0.038*"excel" + 0.031*"music" + 0.026*"classic" + 0.021*"sound" + 0.018*"thank" + 0.018*"qualiti" + 0.011*"recommend"
+Topic: 4 
+Words: 0.037*"song" + 0.035*"best" + 0.035*"voic" + 0.029*"bring" + 0.026*"relax" + 0.020*"memori" + 0.019*"soul" + 0.017*"music" + 0.015*"singer" + 0.014*"heart"
+Topic: 5 
+Words: 0.065*"music" + 0.052*"song" + 0.041*"download" + 0.040*"amazon" + 0.039*"listen" + 0.030*"purchas" + 0.027*"version" + 0.026*"enjoy" + 0.023*"collect" + 0.020*"free"
+Topic: 6 
+Words: 0.114*"like" + 0.084*"song" + 0.064*"music" + 0.039*"favorit" + 0.031*"time" + 0.031*"rock" + 0.023*"group" + 0.021*"movi" + 0.021*"classic" + 0.016*"listen"
+Topic: 7 
+Words: 0.275*"love" + 0.163*"song" + 0.028*"beauti" + 0.025*"music" + 0.024*"sing" + 0.020*"voic" + 0.016*"hear" + 0.014*"wonder" + 0.013*"amaz" + 0.013*"listen"
+Topic: 8 
+Words: 0.038*"perform" + 0.024*"record" + 0.019*"major" + 0.018*"piano" + 0.016*"concerto" + 0.014*"orchestra" + 0.014*"star" + 0.014*"minor" + 0.012*"compos" + 0.011*"piec"
+Topic: 9 
+Words: 0.094*"product" + 0.043*"link" + 0.030*"expect" + 0.030*"hook" + 0.026*"class" + 0.020*"normal" + 0.015*"data" + 0.014*"valu" + 0.014*"href" + 0.013*"score"
+Topic: 0 Word: 0.061*"thank" + 0.042*"download" + 0.037*"album" + 0.031*"purchas" + 0.026*"happi" + 0.025*"amazon" + 0.023*"great" + 0.020*"listen" + 0.020*"easi" + 0.019*"buy"
+Topic: 1 Word: 0.087*"classic" + 0.048*"cool" + 0.044*"enjoy" + 0.042*"perfect" + 0.029*"rock" + 0.025*"christma" + 0.017*"group" + 0.016*"song" + 0.015*"music" + 0.014*"smooth"
+Topic: 2 Word: 0.536*"love" + 0.106*"like" + 0.095*"song" + 0.028*"best" + 0.028*"music" + 0.023*"expect" + 0.019*"item" + 0.015*"describ" + 0.011*"star" + 0.010*"daughter"
+Topic: 3 Word: 0.010*"song" + 0.009*"like" + 0.009*"album" + 0.008*"music" + 0.008*"love" + 0.007*"track" + 0.006*"sound" + 0.006*"great" + 0.006*"listen" + 0.006*"hear"
+Topic: 4 Word: 0.050*"favorit" + 0.049*"beauti" + 0.029*"memori" + 0.027*"voic" + 0.026*"song" + 0.024*"time" + 0.021*"bring" + 0.021*"okay" + 0.020*"love" + 0.020*"countri"
+Topic: 5 Word: 0.175*"nice" + 0.056*"product" + 0.015*"song" + 0.012*"arriv" + 0.010*"varieti" + 0.010*"brown" + 0.009*"cover" + 0.009*"funni" + 0.009*"interest" + 0.009*"music"
+Topic: 6 Word: 0.506*"good" + 0.073*"song" + 0.055*"music" + 0.052*"qualiti" + 0.047*"sound" + 0.026*"price" + 0.025*"free" + 0.018*"pretti" + 0.009*"clear" + 0.009*"wife"
+Topic: 7 Word: 0.021*"version" + 0.016*"worship" + 0.015*"relax" + 0.013*"song" + 0.012*"work" + 0.011*"love" + 0.011*"music" + 0.011*"prais" + 0.010*"jonathan" + 0.010*"christian"
+Topic: 8 Word: 0.508*"great" + 0.174*"song" + 0.124*"awesom" + 0.033*"music" + 0.011*"band" + 0.011*"artist" + 0.008*"dope" + 0.008*"advertis" + 0.006*"cute" + 0.006*"princ"
+Topic: 9 Word: 0.086*"excel" + 0.044*"tune" + 0.030*"beat" + 0.030*"danc" + 0.027*"great" + 0.026*"wonder" + 0.023*"love" + 0.023*"song" + 0.018*"catchi" + 0.018*"oldi"

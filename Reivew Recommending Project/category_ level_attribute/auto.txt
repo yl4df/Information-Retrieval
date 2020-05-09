@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.143*"look" + 0.115*"nice" + 0.068*"fit" + 0.060*"like" + 0.055*"love" + 0.041*"perfect" + 0.031*"awesom" + 0.022*"jeep" + 0.017*"truck" + 0.012*"sticker"
+Topic: 1 
+Words: 0.399*"work" + 0.292*"great" + 0.090*"perfect" + 0.036*"product" + 0.026*"fine" + 0.025*"advertis" + 0.022*"expect" + 0.008*"easi" + 0.006*"need" + 0.005*"problem"
+Topic: 2 
+Words: 0.051*"replac" + 0.033*"filter" + 0.024*"perfect" + 0.020*"origin" + 0.018*"part" + 0.018*"mile" + 0.017*"chang" + 0.017*"engin" + 0.016*"better" + 0.015*"brake"
+Topic: 3 
+Words: 0.131*"light" + 0.051*"bright" + 0.039*"bulb" + 0.016*"color" + 0.014*"white" + 0.013*"stock" + 0.012*"turn" + 0.012*"replac" + 0.010*"imag" + 0.010*"applic"
+Topic: 4 
+Words: 0.020*"clean" + 0.017*"like" + 0.016*"paint" + 0.015*"good" + 0.014*"product" + 0.014*"stuff" + 0.012*"cover" + 0.012*"water" + 0.012*"look" + 0.012*"protect"
+Topic: 5 
+Words: 0.021*"batteri" + 0.016*"power" + 0.014*"wire" + 0.013*"switch" + 0.011*"start" + 0.011*"unit" + 0.010*"charg" + 0.009*"connect" + 0.009*"need" + 0.009*"cabl"
+Topic: 6 
+Words: 0.014*"need" + 0.013*"tire" + 0.012*"hold" + 0.012*"littl" + 0.011*"tool" + 0.010*"like" + 0.009*"size" + 0.009*"wheel" + 0.009*"trailer" + 0.009*"lock"
+Topic: 7 
+Words: 0.018*"time" + 0.014*"review" + 0.012*"money" + 0.010*"order" + 0.010*"return" + 0.010*"product" + 0.009*"say" + 0.009*"buy" + 0.009*"go" + 0.009*"come"
+Topic: 8 
+Words: 0.205*"good" + 0.097*"qualiti" + 0.097*"price" + 0.078*"great" + 0.074*"product" + 0.032*"excel" + 0.030*"ship" + 0.027*"fast" + 0.025*"thank" + 0.020*"describ"
+Topic: 9 
+Words: 0.103*"instal" + 0.050*"easi" + 0.025*"mount" + 0.017*"look" + 0.016*"bolt" + 0.015*"wire" + 0.013*"hole" + 0.012*"remov" + 0.012*"come" + 0.012*"take"
+Topic: 0 Word: 0.025*"bulb" + 0.018*"filter" + 0.016*"light" + 0.014*"money" + 0.011*"better" + 0.010*"stock" + 0.009*"replac" + 0.008*"work" + 0.008*"brighter" + 0.008*"mirror"
+Topic: 1 Word: 0.164*"perfect" + 0.060*"love" + 0.050*"awesom" + 0.036*"need" + 0.035*"work" + 0.034*"fine" + 0.032*"exact" + 0.027*"replac" + 0.018*"match" + 0.017*"origin"
+Topic: 2 Word: 0.053*"bright" + 0.039*"light" + 0.013*"super" + 0.013*"instal" + 0.012*"nice" + 0.011*"door" + 0.011*"easi" + 0.011*"switch" + 0.010*"look" + 0.010*"wire"
+Topic: 3 Word: 0.009*"instal" + 0.008*"bolt" + 0.006*"tool" + 0.006*"work" + 0.006*"need" + 0.005*"come" + 0.005*"tire" + 0.005*"mount" + 0.005*"wire" + 0.005*"like"
+Topic: 4 Word: 0.238*"good" + 0.083*"nice" + 0.072*"qualiti" + 0.050*"product" + 0.047*"fit" + 0.046*"price" + 0.034*"work" + 0.034*"look" + 0.029*"like" + 0.024*"great"
+Topic: 5 Word: 0.290*"great" + 0.195*"work" + 0.072*"easi" + 0.070*"product" + 0.059*"instal" + 0.044*"look" + 0.041*"price" + 0.015*"happi" + 0.014*"right" + 0.013*"issu"
+Topic: 6 Word: 0.048*"thank" + 0.045*"advertis" + 0.015*"cool" + 0.014*"work" + 0.012*"honda" + 0.011*"brake" + 0.011*"leak" + 0.010*"dodg" + 0.009*"motorcycl" + 0.008*"upgrad"
+Topic: 7 Word: 0.069*"excel" + 0.060*"describ" + 0.052*"expect" + 0.049*"fast" + 0.044*"ship" + 0.035*"item" + 0.032*"product" + 0.025*"great" + 0.020*"valu" + 0.020*"arriv"
+Topic: 8 Word: 0.013*"problem" + 0.010*"batteri" + 0.009*"jeep" + 0.009*"work" + 0.009*"month" + 0.009*"return" + 0.008*"instal" + 0.007*"helmet" + 0.007*"toyota" + 0.007*"perfect"
+Topic: 9 Word: 0.011*"look" + 0.009*"sticker" + 0.008*"cover" + 0.007*"nice" + 0.007*"great" + 0.007*"hold" + 0.007*"bike" + 0.007*"paint" + 0.007*"good" + 0.007*"clean"

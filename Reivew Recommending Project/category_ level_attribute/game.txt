@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.025*"race" + 0.018*"super" + 0.015*"arcad" + 0.014*"like" + 0.014*"mario" + 0.014*"amiibo" + 0.013*"level" + 0.012*"challeng" + 0.011*"mode" + 0.011*"play"
+Topic: 1 
+Words: 0.027*"mission" + 0.018*"shoot" + 0.017*"weapon" + 0.015*"enemi" + 0.015*"shooter" + 0.013*"like" + 0.012*"kill" + 0.009*"campaign" + 0.009*"multiplay" + 0.006*"ship"
+Topic: 2 
+Words: 0.037*"puzzl" + 0.017*"object" + 0.016*"movi" + 0.015*"hide" + 0.014*"evil" + 0.011*"zombi" + 0.010*"horror" + 0.010*"solv" + 0.010*"like" + 0.009*"resid"
+Topic: 3 
+Words: 0.021*"stori" + 0.013*"gameplay" + 0.012*"charact" + 0.011*"seri" + 0.010*"graphic" + 0.009*"feel" + 0.008*"experi" + 0.007*"play" + 0.007*"enjoy" + 0.006*"best"
+Topic: 4 
+Words: 0.054*"play" + 0.039*"like" + 0.024*"time" + 0.021*"good" + 0.014*"think" + 0.012*"thing" + 0.012*"graphic" + 0.010*"pretti" + 0.010*"want" + 0.010*"look"
+Topic: 5 
+Words: 0.019*"charact" + 0.015*"level" + 0.011*"time" + 0.011*"fight" + 0.011*"enemi" + 0.010*"battl" + 0.009*"boss" + 0.008*"attack" + 0.008*"item" + 0.008*"like"
+Topic: 6 
+Words: 0.128*"great" + 0.087*"love" + 0.074*"good" + 0.047*"work" + 0.028*"product" + 0.024*"excel" + 0.024*"thank" + 0.020*"awesom" + 0.019*"perfect" + 0.018*"play"
+Topic: 7 
+Words: 0.037*"play" + 0.032*"version" + 0.023*"best" + 0.022*"xbox" + 0.017*"origin" + 0.016*"consol" + 0.013*"great" + 0.013*"buy" + 0.012*"come" + 0.012*"edit"
+Topic: 8 
+Words: 0.030*"control" + 0.019*"work" + 0.013*"button" + 0.012*"like" + 0.011*"mous" + 0.009*"feel" + 0.009*"sound" + 0.008*"keyboard" + 0.007*"case" + 0.007*"look"
+Topic: 9 
+Words: 0.029*"player" + 0.026*"play" + 0.018*"mode" + 0.018*"headset" + 0.013*"onlin" + 0.009*"year" + 0.009*"team" + 0.008*"match" + 0.007*"singl" + 0.006*"expans"
+Topic: 0 Word: 0.008*"play" + 0.007*"like" + 0.005*"time" + 0.005*"stori" + 0.005*"good" + 0.005*"charact" + 0.004*"great" + 0.004*"graphic" + 0.004*"enjoy" + 0.004*"love"
+Topic: 1 Word: 0.012*"fallout" + 0.010*"evil" + 0.009*"resid" + 0.008*"horror" + 0.008*"hunt" + 0.007*"mechan" + 0.007*"dumb" + 0.006*"exel" + 0.006*"slash" + 0.006*"penni"
+Topic: 2 Word: 0.015*"fighter" + 0.014*"deliv" + 0.013*"remast" + 0.011*"phone" + 0.009*"arcad" + 0.008*"persona" + 0.007*"saturn" + 0.007*"street" + 0.007*"dont" + 0.007*"emblem"
+Topic: 3 Word: 0.342*"love" + 0.050*"daughter" + 0.030*"cute" + 0.020*"mario" + 0.019*"super" + 0.018*"pokemon" + 0.011*"nintendo" + 0.008*"wife" + 0.008*"mega" + 0.007*"refund"
+Topic: 4 Word: 0.458*"great" + 0.057*"cool" + 0.011*"alright" + 0.010*"duti" + 0.009*"madden" + 0.008*"fifa" + 0.007*"microsoft" + 0.007*"wrestl" + 0.007*"telltal" + 0.006*"cheaper"
+Topic: 5 Word: 0.158*"good" + 0.049*"awesom" + 0.031*"love" + 0.031*"like" + 0.031*"play" + 0.031*"gift" + 0.030*"kid" + 0.020*"best" + 0.020*"enjoy" + 0.018*"great"
+Topic: 6 Word: 0.018*"song" + 0.018*"husband" + 0.015*"lego" + 0.015*"sega" + 0.014*"genesi" + 0.013*"sale" + 0.013*"sonic" + 0.013*"season" + 0.012*"dreamcast" + 0.012*"danc"
+Topic: 7 Word: 0.085*"thank" + 0.081*"excel" + 0.072*"work" + 0.068*"product" + 0.053*"great" + 0.040*"perfect" + 0.034*"nice" + 0.029*"describ" + 0.029*"condit" + 0.027*"fast"
+Topic: 8 Word: 0.023*"work" + 0.015*"mous" + 0.015*"control" + 0.013*"xbox" + 0.013*"case" + 0.011*"need" + 0.010*"deliveri" + 0.010*"great" + 0.009*"download" + 0.009*"window"
+Topic: 9 Word: 0.013*"grandson" + 0.011*"control" + 0.011*"headset" + 0.008*"keyboard" + 0.008*"work" + 0.007*"button" + 0.007*"batteri" + 0.007*"sound" + 0.006*"comfort" + 0.006*"grip"

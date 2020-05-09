@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.032*"rod" + 0.030*"brush" + 0.019*"push" + 0.018*"attach" + 0.017*"pull" + 0.016*"like" + 0.016*"hous" + 0.014*"clockwis" + 0.014*"start" + 0.013*"resist"
+Topic: 1 
+Words: 0.045*"brush" + 0.021*"come" + 0.020*"littl" + 0.018*"section" + 0.017*"open" + 0.015*"hous" + 0.013*"second" + 0.013*"blow" + 0.013*"hand" + 0.012*"rod"
+Topic: 2 
+Words: 0.025*"come" + 0.023*"turn" + 0.019*"tube" + 0.019*"foot" + 0.018*"rod" + 0.015*"right" + 0.014*"need" + 0.013*"duct" + 0.012*"pipe" + 0.011*"washer"
+Topic: 3 
+Words: 0.040*"line" + 0.027*"go" + 0.021*"hous" + 0.021*"rod" + 0.018*"start" + 0.017*"insid" + 0.017*"shop" + 0.017*"get" + 0.017*"help" + 0.017*"glad"
+Topic: 4 
+Words: 0.025*"actual" + 0.024*"gardus" + 0.024*"probabl" + 0.024*"go" + 0.024*"think" + 0.017*"great" + 0.015*"need" + 0.013*"thank" + 0.013*"away" + 0.013*"pretti"
+Topic: 5 
+Words: 0.027*"come" + 0.025*"pipe" + 0.024*"clutch" + 0.020*"speed" + 0.016*"high" + 0.016*"go" + 0.013*"break" + 0.013*"like" + 0.012*"review" + 0.012*"outsid"
+Topic: 6 
+Words: 0.033*"long" + 0.033*"cycl" + 0.023*"thing" + 0.022*"auto" + 0.018*"attach" + 0.016*"rod" + 0.015*"right" + 0.013*"foot" + 0.013*"like" + 0.013*"turn"
+Topic: 7 
+Words: 0.020*"rod" + 0.016*"go" + 0.016*"come" + 0.014*"clutch" + 0.013*"like" + 0.012*"brush" + 0.012*"year" + 0.012*"line" + 0.011*"hous" + 0.011*"insid"
+Topic: 8 
+Words: 0.018*"pipe" + 0.018*"rod" + 0.016*"brush" + 0.015*"hous" + 0.014*"like" + 0.013*"clockwis" + 0.012*"clutch" + 0.012*"tape" + 0.011*"speed" + 0.010*"come"
+Topic: 9 
+Words: 0.038*"purchas" + 0.033*"manufactur" + 0.031*"unit" + 0.027*"hour" + 0.023*"think" + 0.017*"write" + 0.017*"amazon" + 0.015*"need" + 0.014*"year" + 0.013*"great"
+Topic: 0 Word: 0.019*"screw" + 0.010*"cycl" + 0.008*"long" + 0.008*"speed" + 0.007*"littl" + 0.007*"auto" + 0.006*"conveni" + 0.006*"project" + 0.006*"catcher" + 0.006*"rod"
+Topic: 1 Word: 0.031*"project" + 0.031*"catcher" + 0.031*"conveni" + 0.025*"littl" + 0.023*"lose" + 0.016*"rod" + 0.016*"space" + 0.016*"resid" + 0.016*"nest" + 0.016*"scar"
+Topic: 2 Word: 0.031*"line" + 0.030*"great" + 0.026*"good" + 0.015*"need" + 0.015*"hose" + 0.013*"wad" + 0.012*"glad" + 0.012*"buy" + 0.011*"washer" + 0.010*"help"
+Topic: 3 Word: 0.013*"brush" + 0.012*"attic" + 0.012*"climb" + 0.012*"rod" + 0.012*"buck" + 0.011*"mask" + 0.011*"leaf" + 0.011*"resist" + 0.011*"push" + 0.010*"pull"
+Topic: 4 Word: 0.017*"tube" + 0.014*"foot" + 0.014*"lazi" + 0.014*"instruct" + 0.013*"washer" + 0.011*"come" + 0.010*"write" + 0.010*"clod" + 0.009*"duct" + 0.009*"wrench"
+Topic: 5 Word: 0.011*"gardus" + 0.010*"line" + 0.009*"look" + 0.009*"go" + 0.008*"think" + 0.008*"probabl" + 0.008*"year" + 0.008*"save" + 0.008*"great" + 0.008*"american"
+Topic: 6 Word: 0.025*"easi" + 0.019*"filter" + 0.016*"get" + 0.012*"year" + 0.012*"washer" + 0.010*"store" + 0.010*"gallon" + 0.009*"mayb" + 0.009*"have" + 0.008*"buy"
+Topic: 7 Word: 0.017*"speed" + 0.015*"clutch" + 0.014*"high" + 0.012*"pipe" + 0.009*"come" + 0.008*"section" + 0.008*"that" + 0.007*"ridgid" + 0.007*"rotari" + 0.007*"apart"
+Topic: 8 Word: 0.023*"open" + 0.019*"littl" + 0.017*"brush" + 0.014*"give" + 0.014*"section" + 0.013*"unit" + 0.011*"junction" + 0.011*"ladder" + 0.011*"lodg" + 0.011*"definit"
+Topic: 9 Word: 0.039*"cycl" + 0.028*"long" + 0.026*"auto" + 0.013*"dirti" + 0.013*"let" + 0.013*"shini" + 0.013*"hazard" + 0.013*"jean" + 0.013*"potenti" + 0.013*"especi"

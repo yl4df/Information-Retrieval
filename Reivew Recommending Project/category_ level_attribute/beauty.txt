@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.061*"soap" + 0.034*"skin" + 0.023*"provenc" + 0.018*"fragranc" + 0.018*"exfoli" + 0.017*"good" + 0.016*"scent" + 0.015*"like" + 0.015*"nail" + 0.015*"smell"
+Topic: 1 
+Words: 0.044*"hair" + 0.024*"product" + 0.022*"like" + 0.017*"condition" + 0.017*"look" + 0.015*"feel" + 0.015*"shampoo" + 0.014*"toothpast" + 0.012*"nice" + 0.011*"think"
+Topic: 2 
+Words: 0.041*"product" + 0.025*"good" + 0.024*"like" + 0.023*"year" + 0.018*"review" + 0.017*"size" + 0.016*"bath" + 0.016*"scent" + 0.013*"shower" + 0.011*"last"
+Topic: 3 
+Words: 0.056*"love" + 0.054*"scent" + 0.029*"clean" + 0.026*"smell" + 0.024*"good" + 0.023*"dri" + 0.023*"like" + 0.019*"shower" + 0.019*"fragranc" + 0.017*"color"
+Topic: 4 
+Words: 0.082*"love" + 0.033*"product" + 0.029*"scent" + 0.022*"smell" + 0.020*"store" + 0.019*"lotion" + 0.018*"strong" + 0.017*"skin" + 0.016*"good" + 0.016*"amazon"
+Topic: 5 
+Words: 0.041*"smell" + 0.039*"soap" + 0.030*"great" + 0.030*"lavend" + 0.029*"love" + 0.026*"shave" + 0.019*"shower" + 0.018*"wash" + 0.017*"bodi" + 0.016*"skin"
+Topic: 6 
+Words: 0.064*"hair" + 0.035*"love" + 0.032*"shampoo" + 0.032*"brush" + 0.023*"make" + 0.019*"great" + 0.017*"coat" + 0.015*"like" + 0.014*"feel" + 0.014*"clean"
+Topic: 7 
+Words: 0.051*"smell" + 0.047*"like" + 0.040*"scent" + 0.028*"product" + 0.026*"love" + 0.026*"bodi" + 0.022*"shampoo" + 0.022*"favorit" + 0.019*"feel" + 0.019*"wash"
+Topic: 8 
+Words: 0.099*"great" + 0.078*"product" + 0.042*"hair" + 0.031*"smell" + 0.023*"love" + 0.020*"leav" + 0.020*"work" + 0.017*"skin" + 0.015*"like" + 0.014*"excel"
+Topic: 9 
+Words: 0.063*"product" + 0.025*"price" + 0.023*"bottl" + 0.020*"love" + 0.020*"time" + 0.019*"good" + 0.016*"great" + 0.016*"pump" + 0.015*"hair" + 0.013*"perfect"
+Topic: 0 Word: 0.036*"thank" + 0.032*"soap" + 0.026*"expect" + 0.024*"love" + 0.019*"provenc" + 0.017*"time" + 0.015*"shampoo" + 0.015*"receiv" + 0.014*"perfect" + 0.014*"compliment"
+Topic: 1 Word: 0.039*"favorit" + 0.021*"love" + 0.018*"expens" + 0.016*"price" + 0.014*"gift" + 0.014*"amazon" + 0.013*"look" + 0.011*"product" + 0.011*"razor" + 0.011*"continu"
+Topic: 2 Word: 0.033*"nice" + 0.023*"fragranc" + 0.021*"scent" + 0.016*"soap" + 0.014*"skin" + 0.014*"smell" + 0.013*"light" + 0.013*"purchas" + 0.012*"wonder" + 0.012*"hand"
+Topic: 3 Word: 0.040*"excel" + 0.032*"product" + 0.023*"year" + 0.023*"lavend" + 0.019*"best" + 0.019*"love" + 0.018*"great" + 0.017*"hair" + 0.017*"store" + 0.017*"happi"
+Topic: 4 Word: 0.013*"scent" + 0.011*"cream" + 0.011*"hair" + 0.010*"bodi" + 0.009*"product" + 0.009*"nice" + 0.008*"shower" + 0.008*"skin" + 0.008*"like" + 0.007*"brush"
+Topic: 5 Word: 0.020*"toothpast" + 0.020*"skin" + 0.018*"soap" + 0.013*"size" + 0.012*"feel" + 0.012*"pleas" + 0.012*"favorit" + 0.012*"leav" + 0.011*"regular" + 0.010*"soft"
+Topic: 6 Word: 0.026*"soap" + 0.024*"shampoo" + 0.023*"best" + 0.022*"great" + 0.020*"smell" + 0.019*"hair" + 0.018*"awesom" + 0.018*"clean" + 0.014*"pleasant" + 0.014*"gentl"
+Topic: 7 Word: 0.028*"hair" + 0.025*"work" + 0.021*"like" + 0.018*"shampoo" + 0.016*"great" + 0.014*"shave" + 0.013*"condition" + 0.013*"look" + 0.010*"smell" + 0.010*"good"
+Topic: 8 Word: 0.084*"love" + 0.069*"great" + 0.038*"product" + 0.034*"stuff" + 0.029*"smell" + 0.018*"make" + 0.017*"amaz" + 0.016*"price" + 0.016*"scent" + 0.015*"want"
+Topic: 9 Word: 0.041*"good" + 0.017*"product" + 0.015*"hair" + 0.013*"recommend" + 0.012*"work" + 0.010*"shampoo" + 0.010*"polish" + 0.010*"color" + 0.009*"nail" + 0.009*"time"

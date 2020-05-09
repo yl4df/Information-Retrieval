@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.081*"plant" + 0.046*"grow" + 0.040*"seed" + 0.034*"garden" + 0.015*"soil" + 0.014*"germin" + 0.013*"flower" + 0.013*"pot" + 0.012*"start" + 0.011*"sprout"
+Topic: 1 
+Words: 0.020*"work" + 0.016*"pool" + 0.015*"product" + 0.013*"water" + 0.009*"time" + 0.009*"unit" + 0.008*"light" + 0.008*"read" + 0.008*"spray" + 0.006*"need"
+Topic: 2 
+Words: 0.030*"year" + 0.018*"time" + 0.018*"buy" + 0.015*"review" + 0.014*"order" + 0.013*"purchas" + 0.011*"replac" + 0.010*"money" + 0.010*"come" + 0.010*"break"
+Topic: 3 
+Words: 0.030*"bird" + 0.026*"feeder" + 0.018*"trap" + 0.014*"like" + 0.014*"work" + 0.012*"hous" + 0.012*"hang" + 0.011*"catch" + 0.009*"squirrel" + 0.009*"littl"
+Topic: 4 
+Words: 0.016*"batteri" + 0.015*"tool" + 0.015*"blade" + 0.014*"handl" + 0.013*"power" + 0.012*"work" + 0.011*"link" + 0.011*"mower" + 0.011*"weed" + 0.011*"cut"
+Topic: 5 
+Words: 0.214*"great" + 0.169*"work" + 0.072*"product" + 0.045*"perfect" + 0.044*"good" + 0.036*"price" + 0.020*"thank" + 0.018*"excel" + 0.018*"expect" + 0.016*"advertis"
+Topic: 6 
+Words: 0.078*"good" + 0.058*"nice" + 0.055*"qualiti" + 0.047*"look" + 0.029*"color" + 0.029*"light" + 0.025*"price" + 0.022*"like" + 0.016*"flag" + 0.015*"high"
+Topic: 7 
+Words: 0.031*"cover" + 0.026*"grill" + 0.011*"hold" + 0.009*"like" + 0.008*"assembl" + 0.008*"cute" + 0.008*"heat" + 0.008*"need" + 0.008*"perfect" + 0.008*"nice"
+Topic: 8 
+Words: 0.039*"hose" + 0.037*"water" + 0.023*"instal" + 0.015*"leak" + 0.015*"need" + 0.015*"easi" + 0.015*"work" + 0.014*"filter" + 0.014*"pump" + 0.012*"pressur"
+Topic: 9 
+Words: 0.095*"love" + 0.036*"clean" + 0.025*"easi" + 0.019*"size" + 0.017*"glove" + 0.017*"small" + 0.016*"brush" + 0.016*"littl" + 0.015*"wood" + 0.015*"perfect"
+Topic: 0 Word: 0.016*"hose" + 0.012*"leak" + 0.009*"break" + 0.008*"water" + 0.007*"work" + 0.006*"pole" + 0.006*"return" + 0.006*"sprayer" + 0.006*"spray" + 0.006*"cheap"
+Topic: 1 Word: 0.007*"tool" + 0.007*"blade" + 0.006*"small" + 0.006*"great" + 0.005*"work" + 0.005*"handl" + 0.005*"hand" + 0.005*"like" + 0.005*"easi" + 0.005*"good"
+Topic: 2 Word: 0.051*"cute" + 0.042*"pool" + 0.034*"replac" + 0.022*"mower" + 0.019*"origin" + 0.018*"perfect" + 0.018*"happi" + 0.013*"work" + 0.013*"pump" + 0.012*"great"
+Topic: 3 Word: 0.012*"germin" + 0.008*"bird" + 0.006*"seed" + 0.005*"plant" + 0.005*"water" + 0.005*"work" + 0.005*"like" + 0.005*"product" + 0.004*"time" + 0.004*"review"
+Topic: 4 Word: 0.177*"great" + 0.154*"work" + 0.149*"good" + 0.079*"product" + 0.047*"price" + 0.047*"thank" + 0.041*"expect" + 0.040*"advertis" + 0.032*"qualiti" + 0.026*"fast"
+Topic: 5 Word: 0.062*"perfect" + 0.020*"fit" + 0.020*"cover" + 0.015*"sturdi" + 0.013*"fairi" + 0.013*"nice" + 0.013*"work" + 0.013*"money" + 0.013*"heavi" + 0.012*"good"
+Topic: 6 Word: 0.082*"nice" + 0.070*"describ" + 0.035*"flag" + 0.035*"exact" + 0.034*"item" + 0.025*"easi" + 0.020*"color" + 0.020*"great" + 0.020*"arriv" + 0.019*"bright"
+Topic: 7 Word: 0.054*"grow" + 0.049*"love" + 0.042*"plant" + 0.032*"seed" + 0.021*"sprout" + 0.020*"beauti" + 0.014*"stuff" + 0.014*"feeder" + 0.011*"flower" + 0.011*"wait"
+Topic: 8 Word: 0.031*"fine" + 0.022*"filter" + 0.019*"work" + 0.016*"batteri" + 0.014*"pond" + 0.012*"suppos" + 0.010*"satisfi" + 0.010*"smell" + 0.009*"problem" + 0.009*"bulb"
+Topic: 9 Word: 0.081*"excel" + 0.047*"grill" + 0.034*"need" + 0.032*"gift" + 0.020*"servic" + 0.016*"panel" + 0.015*"solar" + 0.013*"plug" + 0.012*"food" + 0.011*"weber"

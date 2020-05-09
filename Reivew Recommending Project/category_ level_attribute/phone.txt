@@ -1,0 +1,30 @@
+Topic: 0 
+Words: 0.052*"button" + 0.016*"volum" + 0.015*"speaker" + 0.015*"headphon" + 0.014*"press" + 0.013*"bluetooth" + 0.013*"sound" + 0.012*"power" + 0.010*"turn" + 0.010*"comfort"
+Topic: 1 
+Words: 0.122*"product" + 0.071*"perfect" + 0.068*"great" + 0.041*"excel" + 0.037*"recommend" + 0.033*"thank" + 0.029*"qualiti" + 0.026*"fit" + 0.023*"high" + 0.023*"item"
+Topic: 2 
+Words: 0.197*"good" + 0.169*"great" + 0.147*"work" + 0.055*"nice" + 0.048*"qualiti" + 0.045*"price" + 0.043*"look" + 0.014*"cheap" + 0.013*"fit" + 0.013*"fine"
+Topic: 3 
+Words: 0.154*"case" + 0.068*"phone" + 0.040*"protect" + 0.026*"like" + 0.022*"look" + 0.017*"nice" + 0.016*"drop" + 0.013*"feel" + 0.013*"cover" + 0.013*"fit"
+Topic: 4 
+Words: 0.099*"screen" + 0.063*"protector" + 0.027*"glass" + 0.023*"phone" + 0.022*"instal" + 0.018*"edg" + 0.017*"easi" + 0.012*"bubbl" + 0.011*"cover" + 0.011*"protect"
+Topic: 5 
+Words: 0.065*"review" + 0.043*"product" + 0.033*"receiv" + 0.024*"honest" + 0.021*"discount" + 0.014*"exchang" + 0.013*"free" + 0.012*"item" + 0.012*"amazon" + 0.012*"help"
+Topic: 6 
+Words: 0.277*"love" + 0.048*"buy" + 0.046*"color" + 0.045*"iphon" + 0.037*"unbias" + 0.029*"link" + 0.026*"wife" + 0.023*"daughter" + 0.022*"plus" + 0.021*"friend"
+Topic: 7 
+Words: 0.043*"phone" + 0.026*"hold" + 0.024*"break" + 0.017*"band" + 0.016*"watch" + 0.016*"magnet" + 0.015*"work" + 0.013*"mount" + 0.013*"stick" + 0.012*"place"
+Topic: 8 
+Words: 0.092*"charg" + 0.041*"charger" + 0.032*"cabl" + 0.030*"batteri" + 0.024*"phone" + 0.022*"work" + 0.019*"devic" + 0.016*"power" + 0.016*"port" + 0.015*"plug"
+Topic: 9 
+Words: 0.100*"phone" + 0.036*"card" + 0.016*"wallet" + 0.014*"camera" + 0.012*"like" + 0.009*"pictur" + 0.009*"carri" + 0.009*"need" + 0.009*"credit" + 0.009*"slot"
+Topic: 0 Word: 0.032*"protector" + 0.029*"break" + 0.023*"screen" + 0.018*"crack" + 0.016*"case" + 0.016*"phone" + 0.015*"month" + 0.014*"drop" + 0.013*"cheap" + 0.012*"time"
+Topic: 1 Word: 0.171*"good" + 0.043*"protect" + 0.042*"case" + 0.032*"like" + 0.026*"cute" + 0.026*"color" + 0.025*"phone" + 0.024*"look" + 0.021*"durabl" + 0.017*"pretti"
+Topic: 2 Word: 0.022*"case" + 0.014*"phone" + 0.009*"protect" + 0.008*"like" + 0.008*"button" + 0.008*"hold" + 0.008*"card" + 0.008*"band" + 0.007*"look" + 0.006*"hard"
+Topic: 3 Word: 0.028*"charg" + 0.016*"charger" + 0.012*"batteri" + 0.011*"cabl" + 0.010*"work" + 0.009*"phone" + 0.008*"devic" + 0.007*"review" + 0.007*"plug" + 0.006*"discount"
+Topic: 4 Word: 0.041*"screen" + 0.033*"easi" + 0.030*"instal" + 0.020*"bubbl" + 0.019*"glass" + 0.017*"appli" + 0.014*"cover" + 0.014*"edg" + 0.011*"watch" + 0.010*"protect"
+Topic: 5 Word: 0.292*"excel" + 0.042*"best" + 0.036*"product" + 0.032*"cool" + 0.021*"poor" + 0.017*"suppos" + 0.017*"qualiti" + 0.015*"bank" + 0.015*"stuff" + 0.013*"sound"
+Topic: 6 Word: 0.296*"love" + 0.041*"daughter" + 0.040*"excelent" + 0.035*"wife" + 0.035*"slim" + 0.029*"case" + 0.022*"gold" + 0.018*"husband" + 0.015*"buy" + 0.014*"stylish"
+Topic: 7 Word: 0.144*"nice" + 0.133*"work" + 0.132*"perfect" + 0.069*"fit" + 0.038*"advertis" + 0.029*"fine" + 0.024*"great" + 0.022*"case" + 0.020*"need" + 0.013*"look"
+Topic: 8 Word: 0.014*"return" + 0.013*"okay" + 0.010*"phone" + 0.009*"wrong" + 0.008*"order" + 0.007*"send" + 0.007*"work" + 0.007*"spigen" + 0.007*"imag" + 0.007*"yellow"
+Topic: 9 Word: 0.165*"great" + 0.092*"product" + 0.060*"thank" + 0.050*"work" + 0.047*"good" + 0.036*"describ" + 0.033*"price" + 0.032*"expect" + 0.029*"qualiti" + 0.027*"awesom"
